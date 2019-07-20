@@ -1,2 +1,3 @@
 # Project_Euler
-Project Eulerの問題を毎日Rubyで解きたい
+Project Eulerの問題を毎週Rubyで解きたい
+https://projecteuler.net/archives
