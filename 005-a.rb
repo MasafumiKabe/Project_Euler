@@ -13,5 +13,5 @@ until i >= 20 do
   num += 1
 end
 
-multiple = num - 1
-puts multiple
+lcm = num - 1
+puts lcm
